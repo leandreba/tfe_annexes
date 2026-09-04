@@ -21,12 +21,12 @@ Pour le profil High voici la numérotation des rapports :
 Pour le profil Mid voici la numérotation des rapports :
 | Test | Nombre d'échantillons | Nombre de cœurs alloués à SPAdes | Mémoire allouée à SPAdes (Go) | Nombre de SPAdes en parallèle | Temps total |
 |:----:|:---------------------:|:--------------------------------:|:-----------------------------:|:------------------------------:|:-----------:|
-| 8  | 9 | 8 | 16 | 1 | 8h47min37sec |
-| 9  | 9 | 4 | 9  | 3 | 10h34min22sec |
-| 10 | 9 | 4 | 9  | 2 | 9h39min38sec |
+| 1  | 9 | 8 | 16 | 1 | 8h47min37sec |
+| 2  | 9 | 4 | 9  | 3 | 10h34min22sec |
+| 3 | 9 | 4 | 9  | 2 | 9h39min38sec |
 
 ### Low
 Pour le profil Low voici la numérotation des rapports :
 | Test | Nombre d'échantillons | Nombre de cœurs alloués à SPAdes | Mémoire allouée à SPAdes (Go) | Nombre de SPAdes en parallèle | Temps total |
 |:----:|:---------------------:|:--------------------------------:|:-----------------------------:|:------------------------------:|:-----------:|
-| 11 | 9 | 4 | 8 | 1 | 2h38min43sec |
+| 1 | 9 | 4 | 8 | 1 | 2h38min43sec |
