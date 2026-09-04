@@ -1,0 +1,184 @@
+__main__ Results
+
+Organism(s): Enterococcus,Listeria,S. aureus,Escherichia coli,Enterococcus faecium & Enterococcus lactis
+
+*************************************************************************************************************
+Virulence genes for Enterococcus
+*************************************************************************************************************************************
+Virulence factor    Identity    Query / Template length    Contig        Position in contig    Protein function    Accession number
+*************************************************************************************************************************************
+-                   -           -                          No hit found  -                     -                   -
+=====================================================================================================================================
+
+
+*************************************************************************************************************
+Virulence genes for Enterococcus faecium & Enterococcus lactis
+*************************************************************************************************************************************
+Virulence factor    Identity    Query / Template length    Contig        Position in contig    Protein function    Accession number
+*************************************************************************************************************************************
+-                   -           -                          No hit found  -                     -                   -
+=====================================================================================================================================
+
+
+*************************************************************************************************************
+Virulence genes for Escherichia coli
+************************************************************************************************************************************************************************
+Virulence factor      Identity  Query / Template length    Contig                                Position in contig    Protein function               Accession number
+************************************************************************************************************************************************************************
+mrkA                     95.93  615 / 597                  NODE_20_length_64390_cov_416.669180   45233..45847          type 3 fimbrial major subunit  ABW83989
+nlpI                     92.66  885 / 885                  NODE_10_length_165064_cov_451.802015  115097..115981        lipoprotein NlpI precursor     CP000243
+========================================================================================================================================================================
+
+*************************************************************************************************************
+Shiga-toxin genes
+*************************************************************************************************************************************
+Virulence factor    Identity    Query / Template length    Contig        Position in contig    Protein function    Accession number
+*************************************************************************************************************************************
+-                   -           -                          No hit found  -                     -                   -
+=====================================================================================================================================
+
+
+*************************************************************************************************************
+Virulence genes for Listeria
+*************************************************************************************************************************************
+Virulence factor    Identity    Query / Template length    Contig        Position in contig    Protein function    Accession number
+*************************************************************************************************************************************
+-                   -           -                          No hit found  -                     -                   -
+=====================================================================================================================================
+
+
+*************************************************************************************************************
+Exoenzyme genes for S. aureus
+*************************************************************************************************************************************
+Virulence factor    Identity    Query / Template length    Contig        Position in contig    Protein function    Accession number
+*************************************************************************************************************************************
+-                   -           -                          No hit found  -                     -                   -
+=====================================================================================================================================
+
+*************************************************************************************************************
+Hostimm genes for S. aureus
+*************************************************************************************************************************************
+Virulence factor    Identity    Query / Template length    Contig        Position in contig    Protein function    Accession number
+*************************************************************************************************************************************
+-                   -           -                          No hit found  -                     -                   -
+=====================================================================================================================================
+
+*************************************************************************************************************
+Toxin genes for S. aureus
+*************************************************************************************************************************************
+Virulence factor    Identity    Query / Template length    Contig        Position in contig    Protein function    Accession number
+*************************************************************************************************************************************
+-                   -           -                          No hit found  -                     -                   -
+=====================================================================================================================================
+
+
+
+
+Extended Output:
+
+# mrkA_ABW83989
+template: 	ATGGCAATGAAAAAGGTTCTTCTCTCTGCAGCAATGGCAACCGCGTTTTTTGGCATGACT
+          	||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||
+query:    	ATGGCAATGAAAAAGGTTCTTCTTTCTGCAGCAATGGCAACCGCGTTTTTTGGCATGACT
+
+template: 	GCTGCCCATGCAGCTGATACCACTGTTGGCGGCGGCCAGGTTAATTTCTTCGGTAAAGTT
+          	|||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||
+query:    	GCTGCCCATGCAGCTGATACCAATGTTGGCGGCGGCCAGGTTAATTTCTTCGGTAAAGTT
+
+template: 	ACCGATGTATCCTGTACTGTTTCCGTTAACGGCCAGGGCAGCGATGCGAACGTTTACCTG
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	ACCGATGTATCCTGTACTGTTTCCGTTAACGGCCAGGGCAGCGATGCGAACGTTTACCTG
+
+template: 	TCTCCGGTAACCCTGACTGAAGTTAAAGCGGCAGAAGCGGATACTTACCTGAAACCGAAA
+          	|||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+query:    	TCTCCGGTAACCCTGACTGAAGTTAAAGCGGCAGCAGCGGATACTTACCTGAAACCGAAA
+
+template: 	TCTTTCACCATTGACGTCTCTAACTGCCAGGC---------CACTAAACAGGATGGCGTA
+          	||||||||||||||||||||||| ||||||||         |||||||||||||| ||||
+query:    	TCTTTCACCATTGACGTCTCTAAGTGCCAGGCTGCTAATGGCACTAAACAGGATGACGTA
+
+template: 	A---------GCGTGAACTGGACCGGCGGTAACCTGCTGGCTGGCGCAACCGGCAAACAA
+          	|         ||||||||||||||||||||||||||||||||||||||||| ||||||||
+query:    	AGCAAACTGGGCGTGAACTGGACCGGCGGTAACCTGCTGGCTGGCGCAACCAGCAAACAA
+
+template: 	CAGGGCTACCTGGCGAACACCGAAGCTTCCGGTGCTCAGAACATCCAGCTGGTGCTGTCT
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	CAGGGCTACCTGGCGAACACCGAAGCTTCCGGTGCTCAGAACATCCAGCTGGTGCTGTCT
+
+template: 	ACTGACAACGCTACCGCGCTGACCAACAAAATCATCCCGGGTGGCAGCACTCAGCCGAAA
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	ACTGACAACGCTACCGCGCTGACCAACAAAATCATCCCGGGTGGCAGCACTCAGCCGAAA
+
+template: 	GCGAAAGGCGACGCTTCCGCTGTAGCTGATGGCGCGCGTTTCACCTACTACGTAGGCTAC
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	GCGAAAGGCGACGCTTCCGCTGTAGCTGATGGCGCGCGTTTCACCTACTACGTAGGCTAC
+
+template: 	GCCACCAGCGCGCCGACCAAGGTAACCACCGGTGTGGTTAACAGCTACGCGACTTACGAA
+          	||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||
+query:    	GCCACCAGCGCGCCGACCACGGTAACCACCGGTGTGGTTAACAGCTACGCGACTTACGAA
+
+template: 	ATTACTTACCAGTAA
+          	|||||||||||||||
+query:    	ATTACTTACCAGTAA
+
+# nlpI_CP000243
+template: 	ATGAAGCCTTTTTTGCGCTGGTGTTTCGTTGCGACAGCACTTACGCTTGCAGGATGCAGT
+          	||||||||||||||||||||||||| ||||||||||||  | ||||| ||||||||||| 
+query:    	ATGAAGCCTTTTTTGCGCTGGTGTTGCGTTGCGACAGCTTTAACGCTGGCAGGATGCAGC
+
+template: 	AATACTTCCTGGCGTAAAAGTGAAGTTCTCGCGGTACCATTGCAACCGACTTTACAGCAG
+          	||  || |||||||||| || ||||| ||||| || ||||||||||||||||| ||||||
+query:    	AACTCTGCCTGGCGTAAGAGCGAAGTCCTCGCAGTGCCATTGCAACCGACTTTGCAGCAG
+
+template: 	GAAGTGATTCTGGCACGTATGGAACAGATCCTTGCCAGTCGGGCTTTAACCGATGACGAA
+          	||||| ||||||||||| |||||||| || ||||||||||||||||||||||||||||||
+query:    	GAAGTCATTCTGGCACGCATGGAACAAATACTTGCCAGTCGGGCTTTAACCGATGACGAA
+
+template: 	CGCGCACAGCTTTTATATGAGCGCGGAGTGTTGTATGATAGTCTCGGTCTGAGGGCATTA
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | 
+query:    	CGCGCACAGCTTTTATATGAGCGCGGAGTGTTGTATGATAGTCTCGGTCTGAGGGCACTG
+
+template: 	GCGCGTAACGATTTTTCGCAAGCGCTGGCAATCCGACCGGATATGCCTGAAGTATTCAAT
+          	||||| || |||||||| ||||||||||| || ||||| |||||||||||||||||||||
+query:    	GCGCGAAATGATTTTTCACAAGCGCTGGCGATTCGACCTGATATGCCTGAAGTATTCAAT
+
+template: 	TACTTAGGCATATATTTAACGCAGGCAGGCAATTTTGATGCTGCCTATGAAGCGTTTGAT
+          	||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	TACTTAGGCATTTATTTAACGCAGGCAGGCAATTTTGATGCTGCCTATGAAGCGTTTGAT
+
+template: 	TCTGTACTTGAGCTTGATCCAACTTACAACTACGCGCACTTGAATCGCGGGATCGCATTA
+          	|||||||||||||||||||||||||||||||||||||||||||||||||| |||||||| 
+query:    	TCTGTACTTGAGCTTGATCCAACTTACAACTACGCGCACTTGAATCGCGGTATCGCATTG
+
+template: 	TATTACGGCGGTCGTGACAAGTTAGCGCAAGATGATCTGCTGGCGTTTTATCAAGACGAT
+          	||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||||
+query:    	TATTACGGCGGACGTGATAAGTTAGCGCAAGATGATCTGCTGGCGTTTTATCAAGACGAT
+
+template: 	CCCAATGATCCTTTCCGTAGTCTGTGGCTTTATCTCGCCGAGCAGAAGCTCGATGAGAAG
+          	|| |||||||||||||| || |||||||||||  |||  ||||||||||| |||||||||
+query:    	CCTAATGATCCTTTCCGCAGCCTGTGGCTTTACATCGTTGAGCAGAAGCTTGATGAGAAG
+
+template: 	CAGGCTAAAGAAGTGTTGAAACAGCACTTCGAAAAATCGGATAAGGAACAGTGGGGATGG
+          	||||| |||||||   ||||||||| |||||| |||||||| ||||||||||||||||||
+query:    	CAGGCCAAAGAAGCACTGAAACAGCGCTTCGAGAAATCGGACAAGGAACAGTGGGGATGG
+
+template: 	AACATTGTCGAGTTCTACCTGGGCAACATTAGCGAACAAACGTTAATGGAAAGGCTCAAG
+          	||||||||||||||||||||||||||||||||||||  |||| | |||||| | ||||||
+query:    	AACATTGTCGAGTTCTACCTGGGCAACATTAGCGAAGCAACGCTGATGGAACGCCTCAAG
+
+template: 	GCGGACGCAACGGATAACACCTCGCTCGCTGAGCATCTCAGTGAAACCAACTTCTATTTA
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	GCGGACGCAACGGATAACACCTCGCTCGCTGAGCATCTCAGTGAAACCAACTTCTATTTA
+
+template: 	GGTAAGTACTACCTAAGTCTGGGGGATTTGGACAGCGCCACGGCACTGTTCAAACTGGCG
+          	||||||||||||||||||||||||||| |||||||||| ||||||||||||||| | |||
+query:    	GGTAAGTACTACCTAAGTCTGGGGGATATGGACAGCGCTACGGCACTGTTCAAATTAGCG
+
+template: 	GTTGCCAACAACGTTCATAACTTTGTTGAGCACCGATACGCATTGTTGGAATTATCGCTC
+          	||||| |||||||| |||||||| ||||||||||| || |||||||||||||||||||||
+query:    	GTTGCTAACAACGTACATAACTTCGTTGAGCACCGTTATGCATTGTTGGAATTATCGCTC
+
+template: 	CTGGGCCAGGACCAAGATGACCTGGCAGAATCGGACCAGCAATAG
+          	 |||||||||| ||||| |||||||||||||||||||||||||||
+query:    	TTGGGCCAGGAGCAAGACGACCTGGCAGAATCGGACCAGCAATAG
+

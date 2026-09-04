@@ -1,0 +1,3 @@
+Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+virulence_ecoli	mrkA	95.93	615 / 597	NODE_20_length_64390_cov_416.669180	45233..45847	 type 3 fimbrial major subunit	ABW83989
+virulence_ecoli	nlpI	92.66	885 / 885	NODE_10_length_165064_cov_451.802015	115097..115981	  lipoprotein NlpI precursor	CP000243

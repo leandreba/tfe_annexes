@@ -1,0 +1,40 @@
+Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+virulence_ecoli	AslA	98.37	1656 / 1656	NODE_18_length_105423_cov_135.491960	67179..68834		CP022686
+virulence_ecoli	air	97.68	4606 / 4605	NODE_13_length_121863_cov_134.583294	108532..113137	 Enteroaggregative immunoglobulin repeat protein	CP003034
+virulence_ecoli	anr	92.02	213 / 213	NODE_47_length_29079_cov_149.498345	11423..11635	 AraC negative regulator	AL391753
+virulence_ecoli	chuA	99.85	1983 / 1983	NODE_12_length_126823_cov_133.393661	73135..75117	  Outer membrane hemin receptor	UARX01000012
+virulence_ecoli	cib	99.95	1881 / 1881	NODE_77_length_5860_cov_189.346187	3398..5278	  Colicin ib	KP198616
+virulence_ecoli	csgA	92.76	456 / 456	NODE_9_length_164547_cov_119.893652	1270..1725	 curlin major subunit CsgA	CP069646
+virulence_ecoli	eilA	99.71	1698 / 1698	NODE_13_length_121863_cov_134.583294	118258..119955	 Salmonella HilA homolog	CP000970
+virulence_ecoli	eilA	99.71	1698 / 1698	NODE_13_length_121863_cov_134.583294	118258..119955	 Salmonella HilA homolog	CP003034
+virulence_ecoli	espY2	94.04	570 / 570	NODE_5_length_211183_cov_133.018758	63012..63581		000868321
+virulence_ecoli	fdeC	94.32	4257 / 4254	NODE_3_length_266661_cov_125.737340	42357..46610	 intimin-like adhesin FdeC	AP010953
+virulence_ecoli	fyuA	99.95	2022 / 2022	NODE_15_length_113275_cov_126.118191	29937..31958	  Siderophore receptor	ADTP01000030
+virulence_ecoli	gad	99.71	1401 / 1401	NODE_12_length_126823_cov_133.393661	91987..93387	  Glutamate decarboxylase	CP001671
+virulence_ecoli	gad	99.07	1401 / 1401	NODE_31_length_60676_cov_115.970742	19248..20648	  Glutamate decarboxylase	CP003034
+virulence_ecoli	hha	91.67	180 / 213	NODE_15_length_113275_cov_126.118191	4704..4883	 hemolysin expression modulator Hha (previous rmoA)	000453331
+virulence_ecoli	hha	95.0	180 / 213	NODE_53_length_20150_cov_147.971155	4767..4946	 hemolysin expression modulator Hha (previous rmoA)	000453331
+virulence_ecoli	hlyE	98.91	918 / 918	NODE_9_length_164547_cov_119.893652	113396..114313	  Avian E. coli haemolysin	ECU57430
+virulence_ecoli	irp2	100.0	6108 / 6108	NODE_15_length_113275_cov_126.118191	45146..51253	  High molecular weight protein 2 non-ribosomal peptide synthetase	NZ_NMCD01000015
+virulence_ecoli	iucC	100.0	1743 / 1743	NODE_61_length_14686_cov_141.604011	4272..6014	  Aerobactin synthetase	HG941718
+virulence_ecoli	iutA	100.0	2202 / 2202	NODE_61_length_14686_cov_141.604011	7370..9571	  Ferric aerobactin receptor	CP001671
+virulence_ecoli	kpsE	100.0	1149 / 1149	NODE_58_length_17775_cov_129.647418	3733..4881	  Capsule polysaccharide export inner-membrane protein	CP011134
+virulence_ecoli	kpsMII_K4	100.0	777 / 777	NODE_4_length_214065_cov_129.449492	5996..6772	  Polysialic acid transport protein; Group 2 capsule	UGEJ01000002
+virulence_ecoli	lpfA	99.83	573 / 573	NODE_13_length_121863_cov_134.583294	30203..30775	  Long polar fimbriae	CP003034
+virulence_ecoli	nlpI	99.66	885 / 885	NODE_11_length_135561_cov_133.299629	116271..117155	  lipoprotein NlpI precursor	CP000243
+virulence_ecoli	ompT	100.0	954 / 954	NODE_59_length_16953_cov_155.630007	8068..9021	  Outer membrane protease (protein protease 7)	CP015834
+virulence_ecoli	papA_F43	99.08	543 / 564	NODE_69_length_7614_cov_194.833090	77..618	  Major pilin subunit F43	JNMC01000043
+virulence_ecoli	sat	100.0	3888 / 3888	NODE_61_length_14686_cov_141.604011	10515..14402	  serine protease autotransporters of Enterobacteriaceae (SPATE)	CP001671
+virulence_ecoli	senB	100.0	1176 / 1176	NODE_87_length_4222_cov_129.662485	2171..3346	  Plasmid-encoded enterotoxin	CP000038
+virulence_ecoli	shiB	96.26	428 / 462	NODE_37_length_45651_cov_137.539430	14188..14615	 homologs of the Shigella flexneri SHI-2 pathogenicity island gene shiA	AAD44732
+virulence_ecoli	terC	98.46	714 / 714	NODE_8_length_184836_cov_127.056127	155797..156510	  Tellurium ion resistance protein	CP007491
+virulence_ecoli	terC	97.18	958 / 966	NODE_4_length_214065_cov_129.449492	161165..162122	  Tellurium ion resistance protein	MG591698
+virulence_ecoli	tia	100.0	756 / 756	NODE_37_length_45651_cov_137.539430	8562..9317	 Tia Invasion determinant	DQ095216
+virulence_ecoli	traT	100.0	777 / 777	NODE_47_length_29079_cov_149.498345	21603..22379	  Outer membrane protein complement resistance	CXZO01000046
+virulence_ecoli	traT	100.0	627 / 627	NODE_26_length_82894_cov_209.995629	38543..39169	  Outer membrane protein complement resistance	MF156268
+virulence_ecoli	yehB	97.69	2471 / 2481	NODE_17_length_110537_cov_130.472089	81661..84131	 Usher, YHD fimbriael cluster	CP042934
+virulence_ecoli	yehC	96.74	675 / 675	NODE_17_length_110537_cov_130.472089	84147..84821	 Chaperone, YHD fimbriael cluster	CP042934
+virulence_ecoli	yehD	97.24	543 / 543	NODE_17_length_110537_cov_130.472089	84902..85444	 Major pilin subunit, YHD fimbriael cluster	CP042934
+virulence_ecoli	yfcV	100.0	567 / 567	NODE_6_length_202105_cov_132.242694	53999..54565	  Fimbrial protein	UFZN01000001
+virulence_ecoli	yghJ	99.91	4569 / 4569	NODE_4_length_214065_cov_129.449492	19791..24359		CP042892
+virulence_ecoli	yghJ	99.91	4569 / 4569	NODE_4_length_214065_cov_129.449492	19791..24359		CP043217

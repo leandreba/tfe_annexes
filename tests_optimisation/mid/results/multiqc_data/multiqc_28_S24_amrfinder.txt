@@ -1,0 +1,20 @@
+Sample	Element name		Class	Subclass	Target length	Reference sequence length	% Coverage of reference
+aac(3)-IIe	aminoglycoside N-acetyltransferase AAC(3)-IIe		AMINOGLYCOSIDE	GENTAMICIN	286	286	100.0
+aac(6')-Ib-cr5	fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr5		AMINOGLYCOSIDE/QUINOLONE	AMIKACIN/KANAMYCIN/QUINOLONE/TOBRAMYCIN	184	184	100.0
+aadA1	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1		AMINOGLYCOSIDE	STREPTOMYCIN	263	263	100.0
+aadA5	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5		AMINOGLYCOSIDE	STREPTOMYCIN	262	262	100.0
+aph(3'')-Ib	aminoglycoside O-phosphotransferase APH(3'')-Ib		AMINOGLYCOSIDE	STREPTOMYCIN	267	267	100.0
+aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id		AMINOGLYCOSIDE	STREPTOMYCIN	278	278	100.0
+blaCTX-M-15	extended-spectrum class A beta-lactamase CTX-M-15		BETA-LACTAM	CEPHALOSPORIN	291	291	100.0
+blaOXA-1	oxacillin-hydrolyzing class D beta-lactamase OXA-1		BETA-LACTAM	CEPHALOSPORIN	276	276	100.0
+blaTEM	TEM family class A beta-lactamase		BETA-LACTAM	BETA-LACTAM	197	286	68.88
+catB3	type B-3 chloramphenicol O-acetyltransferase CatB3		PHENICOL	CHLORAMPHENICOL	147	210	70.0
+dfrA1	trimethoprim-resistant dihydrofolate reductase DfrA1		TRIMETHOPRIM	TRIMETHOPRIM	157	157	100.0
+dfrA17	trimethoprim-resistant dihydrofolate reductase DfrA17		TRIMETHOPRIM	TRIMETHOPRIM	157	157	100.0
+mph(A)	Mph(A) family macrolide 2'-phosphotransferase		MACROLIDE	AZITHROMYCIN/ERYTHROMYCIN/SPIRAMYCIN/TELITHROMYCIN	301	301	100.0
+mrx(A)	phosphorylated macrolide efflux MFS transporter Mrx(A)		MACROLIDE	AZITHROMYCIN/ERYTHROMYCIN/SPIRAMYCIN/TELITHROMYCIN	412	412	100.0
+qacEdelta1	quaternary ammonium compound efflux SMR transporter QacE delta 1		QUATERNARY AMMONIUM	QUATERNARY AMMONIUM	115	115	100.0
+qnrS1	quinolone resistance pentapeptide repeat protein QnrS1		QUINOLONE	QUINOLONE	218	218	100.0
+sul1	sulfonamide-resistant dihydropteroate synthase Sul1		SULFONAMIDE	SULFONAMIDE	225	279	80.65
+sul2	sulfonamide-resistant dihydropteroate synthase Sul2		SULFONAMIDE	SULFONAMIDE	271	271	100.0
+tet(A)	tetracycline efflux MFS transporter Tet(A)		TETRACYCLINE	TETRACYCLINE	399	399	100.0

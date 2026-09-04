@@ -1,0 +1,21 @@
+Sample	Identity	Query / Template length	Protein function	Accession number
+AslA	94.21	1657 / 1656		CP054236
+capU	99.72	1089 / 1089	Hexosyltransferase homolog	CU928145
+csgA	100.0	456 / 456	curlin major subunit CsgA	CP069646
+fimH	100.0	489 / 489	Type 1 fimbriae	NA
+fyuA	100.0	2022 / 2022	Siderophore receptor	UGBN01000001
+hha	90.45	157 / 213	hemolysin expression modulator Hha (previous rmoA)	453331
+hlyE	100.0	918 / 918	Avian E. coli haemolysin	ECU57430
+iha	99.95	2091 / 2091	Adherence protein	CP003289
+irp2	99.93	6108 / 6108	High molecular weight protein 2 non-ribosomal peptide synthetase	NZ_UGEC01000002
+mchB	96.39	305 / 294	Microcin H47 part of colicin H	AE014075
+mchC	100.0	1551 / 1551	MchC protein	CP003289
+mchF	100.0	2103 / 2103	ABC transporter protein MchF	CP003301
+nlpI	99.77	885 / 885	lipoprotein NlpI precursor	CP000243
+sigA	97.98	3858 / 3858	serine protease autotransporters of Enterobacteriaceae (SPATE),Shigella IgA-like protease homologue	CP000038
+terC	100.0	1041 / 1041	Tellurium ion resistance protein	UINO01000028
+traT	99.84	627 / 627	Outer membrane protein complement resistance	NC_014843
+yehA	98.26	1035 / 1035	Outer membrane lipoprotein, YHD fimbriael cluster	CP042934
+yehB	98.75	2481 / 2481	Usher, YHD fimbriael cluster	CP042934
+yehC	97.63	675 / 675	Chaperone, YHD fimbriael cluster	CP042934
+yehD	98.71	543 / 543	Major pilin subunit, YHD fimbriael cluster	CP042934

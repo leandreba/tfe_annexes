@@ -1,0 +1,13 @@
+Sample	Element name		Class	Subclass	Target length	Reference sequence length	% Coverage of reference
+aac(3)-IIe	aminoglycoside N-acetyltransferase AAC(3)-IIe		AMINOGLYCOSIDE	GENTAMICIN	272	286	95.1
+aac(6')-Ib-cr5	fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr5		AMINOGLYCOSIDE/QUINOLONE	AMIKACIN/KANAMYCIN/QUINOLONE/TOBRAMYCIN	184	184	100.0
+blaCTX-M-15	extended-spectrum class A beta-lactamase CTX-M-15		BETA-LACTAM	CEPHALOSPORIN	291	291	100.0
+blaOXA-1	oxacillin-hydrolyzing class D beta-lactamase OXA-1		BETA-LACTAM	CEPHALOSPORIN	276	276	100.0
+blaSCO-1	class A beta-lactamase SCO-1		BETA-LACTAM	BETA-LACTAM	288	288	100.0
+blaSHV-11	broad-spectrum class A beta-lactamase SHV-11		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+blaTEM-1	broad-spectrum class A beta-lactamase TEM-1		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+catB3	type B-3 chloramphenicol O-acetyltransferase CatB3		PHENICOL	CHLORAMPHENICOL	147	210	70.0
+dfrA14	trimethoprim-resistant dihydrofolate reductase DfrA14		TRIMETHOPRIM	TRIMETHOPRIM	157	157	100.0
+fosA	FosA5 family fosfomycin resistance glutathione transferase		FOSFOMYCIN	FOSFOMYCIN	139	139	100.0
+oqxA	multidrug efflux RND transporter periplasmic adaptor subunit OqxA		NITROFURAN/PHENICOL/QUINOLONE/TETRACYCLINE	NITROFURANTOIN/PHENICOL/QUINOLONE/TIGECYCLINE	391	391	100.0
+oqxB25	multidrug efflux RND transporter permease subunit OqxB25		PHENICOL/QUINOLONE	PHENICOL/QUINOLONE	1050	1050	100.0

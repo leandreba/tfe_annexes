@@ -1,0 +1,9 @@
+Sample	Element name		Class	Subclass	Target length	Reference sequence length	% Coverage of reference
+aadA1	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1		AMINOGLYCOSIDE	STREPTOMYCIN	262	262	100.0
+aph(3'')-Ib	aminoglycoside O-phosphotransferase APH(3'')-Ib		AMINOGLYCOSIDE	STREPTOMYCIN	267	267	100.0
+aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id		AMINOGLYCOSIDE	STREPTOMYCIN	278	278	100.0
+blaTEM-1	broad-spectrum class A beta-lactamase TEM-1		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+dfrA1	trimethoprim-resistant dihydrofolate reductase DfrA1		TRIMETHOPRIM	TRIMETHOPRIM	157	157	100.0
+sat2	streptothricin N-acetyltransferase Sat2		STREPTOTHRICIN	STREPTOTHRICIN	174	174	100.0
+sul2	sulfonamide-resistant dihydropteroate synthase Sul2		SULFONAMIDE	SULFONAMIDE	271	271	100.0
+tet(B)	tetracycline efflux MFS transporter Tet(B)		TETRACYCLINE	TETRACYCLINE	401	401	100.0

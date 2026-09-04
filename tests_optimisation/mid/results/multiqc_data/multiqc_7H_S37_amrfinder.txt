@@ -1,0 +1,8 @@
+Sample	Element name		Class	Subclass	Target length	Reference sequence length	% Coverage of reference
+aac(6')-Ib-cr5	fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr5		AMINOGLYCOSIDE/QUINOLONE	AMIKACIN/KANAMYCIN/QUINOLONE/TOBRAMYCIN	184	184	100.0
+blaCTX-M-15	extended-spectrum class A beta-lactamase CTX-M-15		BETA-LACTAM	CEPHALOSPORIN	291	291	100.0
+blaOXA-1	oxacillin-hydrolyzing class D beta-lactamase OXA-1		BETA-LACTAM	CEPHALOSPORIN	276	276	100.0
+catB3	type B-3 chloramphenicol O-acetyltransferase CatB3		PHENICOL	CHLORAMPHENICOL	147	210	70.0
+erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)		LINCOSAMIDE/MACROLIDE/STREPTOGRAMIN	CLINDAMYCIN/ERYTHROMYCIN/STREPTOGRAMIN B	245	245	100.0
+mph(A)	Mph(A) family macrolide 2'-phosphotransferase		MACROLIDE	AZITHROMYCIN/ERYTHROMYCIN/SPIRAMYCIN/TELITHROMYCIN	301	301	100.0
+mrx(A)	phosphorylated macrolide efflux MFS transporter Mrx(A)		MACROLIDE	AZITHROMYCIN/ERYTHROMYCIN/SPIRAMYCIN/TELITHROMYCIN	412	412	100.0

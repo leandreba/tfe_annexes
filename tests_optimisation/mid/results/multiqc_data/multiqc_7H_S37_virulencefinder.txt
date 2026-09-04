@@ -1,0 +1,19 @@
+Sample	Identity	Query / Template length	Protein function	Accession number
+AslA	94.21	1657 / 1656		CP054236
+anr	93.9	213 / 213	AraC negative regulator	AL391753
+capU	99.91	1089 / 1089	Hexosyltransferase homolog	CU928145
+csgA	100.0	456 / 456	curlin major subunit CsgA	CP069646
+fdeC	92.84	4258 / 4254	intimin-like adhesin FdeC	AP010953
+fyuA	100.0	2022 / 2022	Siderophore receptor	CU928163
+hha	94.37	213 / 213	hemolysin expression modulator Hha (previous rmoA)	453331
+hlyE	100.0	918 / 918	Avian E. coli haemolysin	ECU57430
+irp2	99.98	6109 / 6109	High molecular weight protein 2 non-ribosomal peptide synthetase	NZ_PVPN01000032
+iss	99.66	294 / 294	Increased serum survival	CP001846
+nlpI	99.77	885 / 885	lipoprotein NlpI precursor	CP000243
+terC	98.75	959 / 966	Tellurium ion resistance protein	MG591698
+traJ	99.86	690 / 690	Protein TraJ (Positive regulator of conjugal transfer operon)	AF550679
+traT	100.0	732 / 732	Outer membrane protein complement resistance	NC_014615
+yehA	99.13	1035 / 1035	Outer membrane lipoprotein, YHD fimbriael cluster	CP042934
+yehB	99.36	2481 / 2481	Usher, YHD fimbriael cluster	CP042934
+yehC	98.37	675 / 675	Chaperone, YHD fimbriael cluster	CP042934
+yehD	98.71	543 / 543	Major pilin subunit, YHD fimbriael cluster	CP042934

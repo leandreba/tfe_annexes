@@ -1,0 +1,14 @@
+Sample	Identity	Query / Template length	Protein function	Accession number
+csgA	98.9	456 / 456	curlin major subunit CsgA	CP069646
+fdeC	95.3	3831 / 4254	intimin-like adhesin FdeC	AP010953
+fimH	100.0	489 / 489	Type 1 fimbriae	NA
+gad	100.0	1401 / 1401	Glutamate decarboxylase	AP010953
+hlyE	99.13	918 / 918	Avian E. coli haemolysin	ECU57430
+lpfA	100.0	573 / 573	Long polar fimbriae	KC207123
+nlpI	99.77	885 / 885	lipoprotein NlpI precursor	CP000243
+terC	98.85	959 / 966	Tellurium ion resistance protein	MG591698
+yehA	97.97	1033 / 1035	Outer membrane lipoprotein, YHD fimbriael cluster	CP042934
+yehB	97.86	2481 / 2481	Usher, YHD fimbriael cluster	CP042934
+yehC	98.37	675 / 675	Chaperone, YHD fimbriael cluster	CP042934
+yehD	98.71	543 / 543	Major pilin subunit, YHD fimbriael cluster	CP042934
+yghJ	98.08	4573 / 4569		CP002729

@@ -1,0 +1,18 @@
+Sample	Element name		Class	Subclass	Target length	Reference sequence length	% Coverage of reference
+aac(6')-Ib-cr5	fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr5		AMINOGLYCOSIDE/QUINOLONE	AMIKACIN/KANAMYCIN/QUINOLONE/TOBRAMYCIN	184	184	100.0
+aadA1	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1		AMINOGLYCOSIDE	STREPTOMYCIN	263	263	100.0
+aph(3'')-Ib	aminoglycoside O-phosphotransferase APH(3'')-Ib		AMINOGLYCOSIDE	STREPTOMYCIN	267	267	100.0
+aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id		AMINOGLYCOSIDE	STREPTOMYCIN	278	278	100.0
+blaACT-46	cephalosporin-hydrolyzing class C beta-lactamase ACT-46		BETA-LACTAM	CEPHALOSPORIN	381	381	100.0
+blaCTX-M-15	extended-spectrum class A beta-lactamase CTX-M-15		BETA-LACTAM	CEPHALOSPORIN	291	291	100.0
+blaOXA-1	oxacillin-hydrolyzing class D beta-lactamase OXA-1		BETA-LACTAM	CEPHALOSPORIN	276	276	100.0
+blaTEM-1	broad-spectrum class A beta-lactamase TEM-1		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+catA1	type A-1 chloramphenicol O-acetyltransferase		PHENICOL	CHLORAMPHENICOL	217	219	99.09
+catB3	type B-3 chloramphenicol O-acetyltransferase CatB3		PHENICOL	CHLORAMPHENICOL	147	210	70.0
+dfrA14	trimethoprim-resistant dihydrofolate reductase DfrA14		TRIMETHOPRIM	TRIMETHOPRIM	157	157	100.0
+fosA	FosA/FosA2 family fosfomycin resistance glutathione transferase		FOSFOMYCIN	FOSFOMYCIN	141	141	100.0
+oqxA	multidrug efflux RND transporter periplasmic adaptor subunit OqxA		NITROFURAN/PHENICOL/QUINOLONE/TETRACYCLINE	NITROFURANTOIN/PHENICOL/QUINOLONE/TIGECYCLINE	391	391	100.0
+oqxB	multidrug efflux RND transporter permease subunit OqxB		NITROFURAN/PHENICOL/QUINOLONE/TETRACYCLINE	NITROFURANTOIN/PHENICOL/QUINOLONE/TIGECYCLINE	1050	1050	100.0
+qnrB1	quinolone resistance pentapeptide repeat protein QnrB1		QUINOLONE	QUINOLONE	214	214	100.0
+sul2	sulfonamide-resistant dihydropteroate synthase Sul2		SULFONAMIDE	SULFONAMIDE	271	271	100.0
+tet(A)	tetracycline efflux MFS transporter Tet(A)		TETRACYCLINE	TETRACYCLINE	399	399	100.0

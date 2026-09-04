@@ -1,0 +1,18 @@
+ >> Checking for Valid Options...
+ >> Running Bracken 
+      >> python src/est_abundance.py -i 28_S24_kraken.report -o 28_S24.output -k /data/tfe/db/kraken/database150mers.kmer_distrib -l S -t 10
+PROGRAM START TIME: 05-05-2026 20:47:40
+BRACKEN SUMMARY (Kraken report: 28_S24_kraken.report)
+    >>> Threshold: 10 
+    >>> Number of species in sample: 1105 
+	  >> Number of species with reads > threshold: 128 
+	  >> Number of species with reads < threshold: 977 
+    >>> Total reads in sample: 11998482
+	  >> Total reads kept at species level (reads > threshold): 1383429
+	  >> Total reads discarded (species reads < threshold): 1740
+	  >> Reads distributed: 7807015
+	  >> Reads not distributed (eg. no species above threshold): 380
+	  >> Unclassified reads: 2805918
+BRACKEN OUTPUT PRODUCED: 28_S24.output
+PROGRAM END TIME: 05-05-2026 20:47:40
+  Bracken complete.

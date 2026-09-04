@@ -1,0 +1,8 @@
+Sample	Identity	Query / Template length	Protein function	Accession number
+clpK1	99.07	2786 / 2883	heat shock survival AAA family ATPase ClpK. thermal stress survival	WP_053271808
+fimH	99.8	489 / 489	Type 1 fimbriae	NA
+fyuA	100.0	2022 / 2022	Siderophore receptor	CAY233333
+irp2	99.95	6108 / 6108	High molecular weight protein 2 non-ribosomal peptide synthetase	NZ_NMCY01000014
+iutA	99.45	2190 / 2190	Ferric aerobactin receptor	FLWH01000001
+mrkA	96.26	615 / 597	type 3 fimbrial major subunit	ABW83989
+traT	98.48	723 / 732	Outer membrane protein complement resistance	NZ_KZ984345

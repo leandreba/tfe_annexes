@@ -1,0 +1,10 @@
+Sample	SCHEME	ST	STATUS	SCORE	ALLELES
+11_S10	klebsiella	348	PERFECT	100	gapA(2);infB(1);mdh(20);pgi(1);phoE(12);rpoB(15);tonB(16)
+14_S13	ecoli_achtman_4	5824	PERFECT	100	adk(10);fumC(11);gyrB(4);icd(1);mdh(8);purA(429);recA(2)
+18H_S48	ecoli_achtman_4	10	PERFECT	100	adk(10);fumC(11);gyrB(4);icd(8);mdh(8);purA(8);recA(2)
+1_S1	ecoli_achtman_4	155	PERFECT	100	adk(6);fumC(4);gyrB(14);icd(16);mdh(24);purA(8);recA(14)
+20_S17	klebsiella	348	PERFECT	100	gapA(2);infB(1);mdh(20);pgi(1);phoE(12);rpoB(15);tonB(16)
+21_S18	ecloacae	109	PERFECT	100	dnaA(67);fusA(20);gyrB(20);leuS(44);pyrG(45);rplB(4);rpoB(32)
+28_S24	ecoli_achtman_4	648	PERFECT	100	adk(92);fumC(4);gyrB(87);icd(96);mdh(70);purA(58);recA(2)
+2_S2	klebsiella	14	PERFECT	100	gapA(1);infB(6);mdh(1);pgi(1);phoE(1);rpoB(1);tonB(1)
+7H_S37	ecoli_achtman_4	617	PERFECT	100	adk(10);fumC(11);gyrB(4);icd(8);mdh(8);purA(13);recA(73)

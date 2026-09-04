@@ -1,0 +1,3 @@
+Sample	Identity	Query / Template length	Protein function	Accession number
+mrkA	95.93	615 / 597	type 3 fimbrial major subunit	ABW83989
+nlpI	92.66	885 / 885	lipoprotein NlpI precursor	CP000243
