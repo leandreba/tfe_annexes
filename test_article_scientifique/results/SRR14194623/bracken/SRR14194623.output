@@ -1,0 +1,56 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Klebsiella pneumoniae	573	S	51643	498535	550178	0.82776
+Klebsiella quasipneumoniae	1463165	S	5128	62671	67799	0.10201
+Klebsiella variicola	244366	S	1060	5898	6958	0.01047
+Klebsiella quasivariicola	2026240	S	242	121	363	0.00055
+Klebsiella africana	2489010	S	307	120	427	0.00064
+Klebsiella aerogenes	548	S	256	75	331	0.00050
+Klebsiella sp. WOUb02	3161071	S	60	44	104	0.00016
+Klebsiella sp. RHBSTW-00215	2742640	S	38	489	527	0.00079
+Klebsiella sp. I138	2755385	S	24	31	55	0.00008
+Klebsiella michiganensis	1134687	S	170	243	413	0.00062
+Klebsiella oxytoca	571	S	133	24	157	0.00024
+Klebsiella grimontii	2058152	S	35	142	177	0.00027
+Klebsiella huaxiensis	2153354	S	30	10	40	0.00006
+Klebsiella electrica	1259973	S	28	6	34	0.00005
+Raoultella ornithinolytica	54291	S	45	121	166	0.00025
+Raoultella planticola	575	S	31	33	64	0.00010
+Escherichia coli	562	S	1901	15766	17667	0.02658
+Escherichia marmotae	1499973	S	25	3	28	0.00004
+Enterobacter hormaechei	158836	S	192	980	1172	0.00176
+Enterobacter asburiae	61645	S	114	77	191	0.00029
+Enterobacter roggenkampii	1812935	S	53	15	68	0.00010
+Enterobacter cloacae	550	S	49	675	724	0.00109
+Enterobacter ludwigii	299767	S	26	15	41	0.00006
+Enterobacter cloacae complex sp. EB5	3073865	S	13	194	207	0.00031
+Enterobacter kobei	208224	S	13	10	23	0.00003
+Enterobacter sp. JBIWA005	2831891	S	17	18	35	0.00005
+Salmonella enterica	28901	S	360	5938	6298	0.00948
+Salmonella sp.	599	S	12	71	83	0.00012
+Shigella dysenteriae	622	S	111	2475	2586	0.00389
+Shigella boydii	621	S	43	520	563	0.00085
+Shigella sonnei	624	S	42	368	410	0.00062
+Shigella flexneri	623	S	41	5100	5141	0.00773
+Citrobacter freundii	546	S	88	137	225	0.00034
+Citrobacter braakii	57706	S	31	31	62	0.00009
+Citrobacter portucalensis	1639133	S	23	15	38	0.00006
+Citrobacter sp. RHBSTW-00053	2742632	S	25	353	378	0.00057
+Citrobacter koseri	545	S	10	2	12	0.00002
+Kosakonia radicincitans	283686	S	24	3	27	0.00004
+Kosakonia cowanii	208223	S	22	2	24	0.00004
+Kosakonia oryzae	497725	S	22	3	25	0.00004
+Cronobacter sakazakii	28141	S	34	5	39	0.00006
+Leclercia adecarboxylata	83655	S	24	12	36	0.00005
+Plesiomonas shigelloides	703	S	16	0	16	0.00002
+Cedecea neteri	158822	S	12	2	14	0.00002
+Pantoea agglomerans	549	S	13	24	37	0.00006
+Morganella morganii	582	S	16	0	16	0.00002
+Edwardsiella tarda	636	S	10	2	12	0.00002
+Acinetobacter baumannii	470	S	79	319	398	0.00060
+Pseudomonas aeruginosa	287	S	34	20	54	0.00008
+Pseudomonas saudiphocaensis	1499686	S	10	0	10	0.00002
+Vibrio cholerae	666	S	30	25	55	0.00008
+Chromobacterium amazonense	1382803	S	24	1	25	0.00004
+Streptomyces sp. ICC1	2099583	S	10	6	16	0.00002
+Malacoplasma iowae	2116	S	13	0	13	0.00002
+Homo sapiens	9606	S	75	0	75	0.00011

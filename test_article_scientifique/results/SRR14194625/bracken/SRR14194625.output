@@ -1,0 +1,15 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Klebsiella pneumoniae	573	S	17414	159630	177044	0.96854
+Klebsiella quasipneumoniae	1463165	S	474	1301	1775	0.00971
+Klebsiella variicola	244366	S	268	1826	2094	0.01146
+Klebsiella quasivariicola	2026240	S	43	22	65	0.00036
+Klebsiella africana	2489010	S	95	38	133	0.00073
+Klebsiella aerogenes	548	S	78	15	93	0.00051
+Klebsiella sp. WOUb02	3161071	S	11	13	24	0.00013
+Klebsiella oxytoca	571	S	25	4	29	0.00016
+Klebsiella michiganensis	1134687	S	25	38	63	0.00034
+Klebsiella electrica	1259973	S	11	1	12	0.00007
+Escherichia coli	562	S	72	917	989	0.00541
+Salmonella enterica	28901	S	31	332	363	0.00199
+Yersinia pseudotuberculosis	633	S	12	33	45	0.00025
+Pseudomonas aeruginosa	287	S	16	42	58	0.00032

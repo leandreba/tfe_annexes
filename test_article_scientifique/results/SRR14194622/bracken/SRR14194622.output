@@ -1,0 +1,33 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Klebsiella pneumoniae	573	S	48686	490633	539319	0.93710
+Klebsiella quasipneumoniae	1463165	S	1900	15745	17645	0.03066
+Klebsiella variicola	244366	S	923	5786	6709	0.01166
+Klebsiella quasivariicola	2026240	S	156	100	256	0.00044
+Klebsiella africana	2489010	S	246	105	351	0.00061
+Klebsiella aerogenes	548	S	215	77	292	0.00051
+Klebsiella sp. WOUb02	3161071	S	37	4	41	0.00007
+Klebsiella sp. I138	2755385	S	24	3	27	0.00005
+Klebsiella sp. B345	2755398	S	12	38	50	0.00009
+Klebsiella michiganensis	1134687	S	107	171	278	0.00048
+Klebsiella oxytoca	571	S	83	17	100	0.00017
+Klebsiella grimontii	2058152	S	30	139	169	0.00029
+Klebsiella electrica	1259973	S	16	2	18	0.00003
+Klebsiella huaxiensis	2153354	S	15	5	20	0.00003
+Raoultella ornithinolytica	54291	S	16	34	50	0.00009
+Escherichia coli	562	S	396	3587	3983	0.00692
+Enterobacter hormaechei	158836	S	64	373	437	0.00076
+Enterobacter asburiae	61645	S	25	23	48	0.00008
+Enterobacter ludwigii	299767	S	25	19	44	0.00008
+Enterobacter roggenkampii	1812935	S	21	7	28	0.00005
+Salmonella enterica	28901	S	129	3371	3500	0.00608
+Citrobacter braakii	57706	S	30	43	73	0.00013
+Citrobacter freundii	546	S	22	41	63	0.00011
+Citrobacter koseri	545	S	13	4	17	0.00003
+Kosakonia radicincitans	283686	S	10	9	19	0.00003
+Shigella flexneri	623	S	14	1093	1107	0.00192
+Proteus columbae	1987580	S	45	23	68	0.00012
+Serratia marcescens	615	S	12	22	34	0.00006
+Acinetobacter baumannii	470	S	44	485	529	0.00092
+Vibrio cholerae	666	S	42	32	74	0.00013
+Pseudomonas aeruginosa	287	S	37	19	56	0.00010
+Homo sapiens	9606	S	101	0	101	0.00018

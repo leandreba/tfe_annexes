@@ -1,0 +1,6 @@
+Sample	Identity	Query / Template length	Protein function	Accession number
+clpK1	99.14	2787 / 2883	heat shock survival AAA family ATPase ClpK. thermal stress survival	WP_053271808
+fimH	99.8	489 / 489	Type 1 fimbriae	NA
+iutA	99.27	2190 / 2190	Ferric aerobactin receptor	FLXF01000001
+mrkA	95.93	615 / 597	type 3 fimbrial major subunit	ABW83989
+nlpI	90.18	886 / 885	lipoprotein NlpI precursor	CP000243

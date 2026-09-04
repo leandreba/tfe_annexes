@@ -1,0 +1,10 @@
+Sample	SCHEME	ST	STATUS	SCORE	ALLELES
+SRR13695925	klebsiella	218	PERFECT	100	gapA(2);infB(3);mdh(1);pgi(1);phoE(9);rpoB(4);tonB(12)
+SRR13695926	klebsiella	395	PERFECT	100	gapA(3);infB(1);mdh(2);pgi(4);phoE(1);rpoB(1);tonB(4)
+SRR13695927	klebsiella	39	PERFECT	100	gapA(2);infB(1);mdh(2);pgi(4);phoE(9);rpoB(1);tonB(14)
+SRR14194620	klebsiella	76	PERFECT	100	gapA(4);infB(1);mdh(1);pgi(1);phoE(21);rpoB(1);tonB(35)
+SRR14194621	klebsiella	219	PERFECT	100	gapA(2);infB(1);mdh(2);pgi(3);phoE(27);rpoB(1);tonB(39)
+SRR14194622	klebsiella	23	PERFECT	100	gapA(2);infB(1);mdh(1);pgi(1);phoE(9);rpoB(4);tonB(12)
+SRR14194623	klebsiella	395	PERFECT	100	gapA(3);infB(1);mdh(2);pgi(4);phoE(1);rpoB(1);tonB(4)
+SRR14194624	klebsiella	307	PERFECT	100	gapA(4);infB(1);mdh(2);pgi(52);phoE(1);rpoB(1);tonB(7)
+SRR14194625	klebsiella	-	OK	83	gapA(9?);infB(4);mdh(2);pgi(1);phoE(1);rpoB(1);tonB(27)

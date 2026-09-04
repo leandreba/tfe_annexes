@@ -1,0 +1,12 @@
+Sample	Identity	Query / Template length	Protein function	Accession number
+ccI	99.94	1686 / 1686	Cloacin	JF828150
+clpK1	99.07	2786 / 2883	heat shock survival AAA family ATPase ClpK. thermal stress survival	WP_053271808
+fimH	99.59	489 / 489	Type 1 fimbriae	NA
+fyuA	99.95	2022 / 2022	Siderophore receptor	CAY233333
+irp2	99.97	6108 / 6108	High molecular weight protein 2 non-ribosomal peptide synthetase	NZ_NMCY01000014
+iucC	90.59	1743 / 1743	Aerobactin synthetase	CYAZ01000069
+iutA	99.65	1722 / 1722	Ferric aerobactin receptor	UDFN01000030
+mrkA	95.93	615 / 597	type 3 fimbrial major subunit	ABW83989
+nlpI	90.07	886 / 885	lipoprotein NlpI precursor	CP000243
+terC	99.33	1041 / 1041	Tellurium ion resistance protein	UGAE01000003
+traT	100.0	777 / 777	Outer membrane protein complement resistance	KY798506

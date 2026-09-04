@@ -1,0 +1,14 @@
+Sample	Element name		Class	Subclass	Target length	Reference sequence length	% Coverage of reference
+aadA5	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5		AMINOGLYCOSIDE	STREPTOMYCIN	262	262	100.0
+armA	16S rRNA (guanine(1405)-N(7))-methyltransferase ArmA		AMINOGLYCOSIDE	GENTAMICIN	257	257	100.0
+blaOXA-48	OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-48		BETA-LACTAM	CARBAPENEM	265	265	100.0
+blaSHV-11	broad-spectrum class A beta-lactamase SHV-11		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+catA1	type A-1 chloramphenicol O-acetyltransferase		PHENICOL	CHLORAMPHENICOL	219	219	100.0
+dfrA1	trimethoprim-resistant dihydrofolate reductase DfrA1		TRIMETHOPRIM	TRIMETHOPRIM	157	157	100.0
+dfrA17	trimethoprim-resistant dihydrofolate reductase DfrA17		TRIMETHOPRIM	TRIMETHOPRIM	157	157	100.0
+fosA	FosA5 family fosfomycin resistance glutathione transferase		FOSFOMYCIN	FOSFOMYCIN	139	139	100.0
+oqxA	multidrug efflux RND transporter periplasmic adaptor subunit OqxA		NITROFURAN/PHENICOL/QUINOLONE/TETRACYCLINE	NITROFURANTOIN/PHENICOL/QUINOLONE/TIGECYCLINE	391	391	100.0
+oqxB	multidrug efflux RND transporter permease subunit OqxB		NITROFURAN/PHENICOL/QUINOLONE/TETRACYCLINE	NITROFURANTOIN/PHENICOL/QUINOLONE/TIGECYCLINE	1050	1050	100.0
+qacEdelta1	quaternary ammonium compound efflux SMR transporter QacE delta 1		QUATERNARY AMMONIUM	QUATERNARY AMMONIUM	115	115	100.0
+sul1	sulfonamide-resistant dihydropteroate synthase Sul1		SULFONAMIDE	SULFONAMIDE	279	279	100.0
+tet(A)	tetracycline efflux MFS transporter Tet(A)		TETRACYCLINE	TETRACYCLINE	399	399	100.0

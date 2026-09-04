@@ -1,0 +1,18 @@
+Sample	Element name		Class	Subclass	Target length	Reference sequence length	% Coverage of reference
+aac(6')-Ib-cr5	fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr5		AMINOGLYCOSIDE/QUINOLONE	AMIKACIN/KANAMYCIN/QUINOLONE/TOBRAMYCIN	184	184	100.0
+aadA1	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1		AMINOGLYCOSIDE	STREPTOMYCIN	262	262	100.0
+ant(2'')-Ia	aminoglycoside nucleotidyltransferase ANT(2'')-Ia		AMINOGLYCOSIDE	GENTAMICIN/KANAMYCIN/TOBRAMYCIN	177	177	100.0
+blaCTX-M-15	extended-spectrum class A beta-lactamase CTX-M-15		BETA-LACTAM	CEPHALOSPORIN	291	291	100.0
+blaKPC-2	carbapenem-hydrolyzing class A beta-lactamase KPC-2		BETA-LACTAM	CARBAPENEM	293	293	100.0
+blaOXA-1	oxacillin-hydrolyzing class D beta-lactamase OXA-1		BETA-LACTAM	CEPHALOSPORIN	276	276	100.0
+blaOXA-48	OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-48		BETA-LACTAM	CARBAPENEM	265	265	100.0
+blaSHV-11	broad-spectrum class A beta-lactamase SHV-11		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+blaTEM-1	broad-spectrum class A beta-lactamase TEM-1		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+catA1	type A-1 chloramphenicol O-acetyltransferase		PHENICOL	CHLORAMPHENICOL	219	219	100.0
+catB3	type B-3 chloramphenicol O-acetyltransferase CatB3		PHENICOL	CHLORAMPHENICOL	147	210	70.0
+fosA	FosA5 family fosfomycin resistance glutathione transferase		FOSFOMYCIN	FOSFOMYCIN	139	139	100.0
+oqxA	multidrug efflux RND transporter periplasmic adaptor subunit OqxA		NITROFURAN/PHENICOL/QUINOLONE/TETRACYCLINE	NITROFURANTOIN/PHENICOL/QUINOLONE/TIGECYCLINE	391	391	100.0
+oqxB32	multidrug efflux RND transporter permease subunit OqxB32		PHENICOL/QUINOLONE	PHENICOL/QUINOLONE	1050	1050	100.0
+qacEdelta1	quaternary ammonium compound efflux SMR transporter QacE delta 1		QUATERNARY AMMONIUM	QUATERNARY AMMONIUM	115	115	100.0
+qnrS1	quinolone resistance pentapeptide repeat protein QnrS1		QUINOLONE	QUINOLONE	218	218	100.0
+sul1	sulfonamide-resistant dihydropteroate synthase Sul1		SULFONAMIDE	SULFONAMIDE	279	279	100.0

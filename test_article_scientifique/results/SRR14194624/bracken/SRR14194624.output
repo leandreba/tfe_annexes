@@ -1,0 +1,29 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Klebsiella pneumoniae	573	S	51616	359187	410803	0.96573
+Klebsiella quasipneumoniae	1463165	S	1444	3146	4590	0.01079
+Klebsiella variicola	244366	S	924	4534	5458	0.01283
+Klebsiella quasivariicola	2026240	S	178	79	257	0.00060
+Klebsiella africana	2489010	S	268	82	350	0.00082
+Klebsiella aerogenes	548	S	235	34	269	0.00063
+Klebsiella sp. I138	2755385	S	23	24	47	0.00011
+Klebsiella sp. WOUb02	3161071	S	20	10	30	0.00007
+Klebsiella oxytoca	571	S	94	10	104	0.00024
+Klebsiella michiganensis	1134687	S	79	92	171	0.00040
+Klebsiella grimontii	2058152	S	34	116	150	0.00035
+Klebsiella electrica	1259973	S	28	2	30	0.00007
+Klebsiella huaxiensis	2153354	S	18	5	23	0.00005
+Raoultella ornithinolytica	54291	S	10	25	35	0.00008
+Escherichia coli	562	S	221	1359	1580	0.00371
+Enterobacter hormaechei	158836	S	24	41	65	0.00015
+Enterobacter roggenkampii	1812935	S	20	3	23	0.00005
+Enterobacter cloacae	550	S	13	39	52	0.00012
+Enterobacter ludwigii	299767	S	12	6	18	0.00004
+Salmonella enterica	28901	S	85	873	958	0.00225
+Citrobacter freundii	546	S	14	32	46	0.00011
+Citrobacter koseri	545	S	10	5	15	0.00004
+Leclercia adecarboxylata	83655	S	12	7	19	0.00004
+Edwardsiella tarda	636	S	10	3	13	0.00003
+Vibrio cholerae	666	S	72	71	143	0.00034
+Acinetobacter baumannii	470	S	14	21	35	0.00008
+Methylococcus capsulatus	414	S	10	3	13	0.00003
+Homo sapiens	9606	S	70	0	70	0.00016

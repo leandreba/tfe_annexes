@@ -1,0 +1,32 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Klebsiella pneumoniae	573	S	52409	379579	431988	0.95041
+Klebsiella quasipneumoniae	1463165	S	1523	3320	4843	0.01065
+Klebsiella variicola	244366	S	999	5393	6392	0.01406
+Klebsiella quasivariicola	2026240	S	228	107	335	0.00074
+Klebsiella africana	2489010	S	306	98	404	0.00089
+Klebsiella aerogenes	548	S	252	39	291	0.00064
+Klebsiella sp. WOUb02	3161071	S	25	18	43	0.00009
+Klebsiella sp. I138	2755385	S	25	36	61	0.00013
+Klebsiella oxytoca	571	S	88	11	99	0.00022
+Klebsiella michiganensis	1134687	S	85	103	188	0.00041
+Klebsiella grimontii	2058152	S	42	149	191	0.00042
+Klebsiella electrica	1259973	S	37	3	40	0.00009
+Klebsiella huaxiensis	2153354	S	24	7	31	0.00007
+Raoultella ornithinolytica	54291	S	13	24	37	0.00008
+Escherichia coli	562	S	201	1141	1342	0.00295
+Enterobacter hormaechei	158836	S	44	68	112	0.00025
+Enterobacter cloacae	550	S	24	2	26	0.00006
+Enterobacter kobei	208224	S	18	10	28	0.00006
+Enterobacter ludwigii	299767	S	16	7	23	0.00005
+Enterobacter asburiae	61645	S	14	6	20	0.00004
+Enterobacter roggenkampii	1812935	S	12	1	13	0.00003
+Salmonella enterica	28901	S	103	1453	1556	0.00342
+Citrobacter freundii	546	S	18	39	57	0.00013
+Lelliottia amnigena	61646	S	12	1	13	0.00003
+Cedecea neteri	158822	S	10	1	11	0.00002
+Pantoea sp. GABEPS69	3028805	S	4024	62	4086	0.00899
+Serratia marcescens	615	S	12	16	28	0.00006
+Acinetobacter baumannii	470	S	18	178	196	0.00043
+Vibrio cholerae	666	S	28	28	56	0.00012
+Robbsia andropogonis	28092	S	1944	3	1947	0.00428
+Homo sapiens	9606	S	58	0	58	0.00013

@@ -1,0 +1,42 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Klebsiella pneumoniae	573	S	51363	336100	387463	0.92925
+Klebsiella quasipneumoniae	1463165	S	3275	4438	7713	0.01850
+Klebsiella variicola	244366	S	654	2918	3572	0.00857
+Klebsiella quasivariicola	2026240	S	135	65	200	0.00048
+Klebsiella michiganensis	1134687	S	264	2920	3184	0.00764
+Klebsiella aerogenes	548	S	194	30	224	0.00054
+Klebsiella africana	2489010	S	188	55	243	0.00058
+Klebsiella sp. CTHL.F3a	2873296	S	28	108	136	0.00033
+Klebsiella sp. WOUb02	3161071	S	27	3	30	0.00007
+Klebsiella sp. I138	2755385	S	11	1	12	0.00003
+Klebsiella oxytoca	571	S	82	11	93	0.00022
+Klebsiella electrica	1259973	S	17	2	19	0.00005
+Klebsiella grimontii	2058152	S	17	52	69	0.00017
+Raoultella ornithinolytica	54291	S	1692	2418	4110	0.00986
+Raoultella planticola	575	S	29	16	45	0.00011
+Escherichia coli	562	S	339	4488	4827	0.01158
+Enterobacter asburiae	61645	S	85	44	129	0.00031
+Enterobacter hormaechei	158836	S	53	253	306	0.00073
+Enterobacter kobei	208224	S	37	24	61	0.00015
+Enterobacter cloacae	550	S	21	148	169	0.00041
+Enterobacter roggenkampii	1812935	S	20	4	24	0.00006
+Enterobacter ludwigii	299767	S	15	7	22	0.00005
+Enterobacter soli	885040	S	13	1	14	0.00003
+Salmonella enterica	28901	S	134	1818	1952	0.00468
+Citrobacter freundii	546	S	35	48	83	0.00020
+Citrobacter portucalensis	1639133	S	11	7	18	0.00004
+Citrobacter sp. CFNIH10	1920110	S	24	36	60	0.00014
+Leclercia adecarboxylata	83655	S	22	10	32	0.00008
+Shigella flexneri	623	S	18	1615	1633	0.00392
+Cronobacter sakazakii	28141	S	10	3	13	0.00003
+Pantoea agglomerans	549	S	43	17	60	0.00014
+Pantoea allii	574096	S	10	0	10	0.00002
+Erwinia billingiae	182337	S	16	1	17	0.00004
+Serratia marcescens	615	S	15	18	33	0.00008
+Serratia proteamaculans	28151	S	10	0	10	0.00002
+Acinetobacter baumannii	470	S	12	176	188	0.00045
+Vibrio cholerae	666	S	24	46	70	0.00017
+Helicobacter pylori	210	S	12	0	12	0.00003
+Streptomyces sp. ICC1	2099583	S	11	2	13	0.00003
+Malacoplasma iowae	2116	S	10	0	10	0.00002
+Homo sapiens	9606	S	64	0	64	0.00015

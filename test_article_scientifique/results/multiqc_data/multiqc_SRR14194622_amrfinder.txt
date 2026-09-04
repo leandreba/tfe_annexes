@@ -1,0 +1,16 @@
+Sample	Element name		Class	Subclass	Target length	Reference sequence length	% Coverage of reference
+aph(3'')-Ib	aminoglycoside O-phosphotransferase APH(3'')-Ib		AMINOGLYCOSIDE	STREPTOMYCIN	261	267	97.75
+aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id		AMINOGLYCOSIDE	STREPTOMYCIN	278	278	100.0
+blaCTX-M-15	extended-spectrum class A beta-lactamase CTX-M-15		BETA-LACTAM	CEPHALOSPORIN	291	291	100.0
+blaLAP-2	class A beta-lactamase LAP-2		BETA-LACTAM	BETA-LACTAM	285	285	100.0
+blaSHV-1	broad-spectrum class A beta-lactamase SHV-1		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+blaTEM-1	broad-spectrum class A beta-lactamase TEM-1		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+catA2	type A-2 chloramphenicol O-acetyltransferase CatII		PHENICOL	CHLORAMPHENICOL	213	213	100.0
+fosA	FosA5 family fosfomycin resistance glutathione transferase		FOSFOMYCIN	FOSFOMYCIN	138	139	99.28
+oqxA	multidrug efflux RND transporter periplasmic adaptor subunit OqxA		NITROFURAN/PHENICOL/QUINOLONE/TETRACYCLINE	NITROFURANTOIN/PHENICOL/QUINOLONE/TIGECYCLINE	391	391	100.0
+oqxB	multidrug efflux RND transporter permease subunit OqxB		NITROFURAN/PHENICOL/QUINOLONE/TETRACYCLINE	NITROFURANTOIN/PHENICOL/QUINOLONE/TIGECYCLINE	1050	1050	100.0
+qepA1	fluoroquinolone efflux MFS transporter QepA1		QUINOLONE	QUINOLONE	511	511	100.0
+qnrS1	quinolone resistance pentapeptide repeat protein QnrS1		QUINOLONE	QUINOLONE	218	218	100.0
+rmtB1	16S rRNA (guanine(1405)-N(7))-methyltransferase RmtB1		AMINOGLYCOSIDE	AMINOGLYCOSIDE	251	251	100.0
+sul2	sulfonamide-resistant dihydropteroate synthase Sul2		SULFONAMIDE	SULFONAMIDE	271	271	100.0
+tet(A)	tetracycline efflux MFS transporter Tet(A)		TETRACYCLINE	TETRACYCLINE	399	399	100.0

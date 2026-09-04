@@ -1,0 +1,6 @@
+Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+virulence_ecoli	clpK1	99.14	2787 / 2883	NODE_47_length_23742_cov_17.839466	1280..4066	 heat shock survival AAA family ATPase ClpK. thermal stress survival	WP_053271808
+virulence_ecoli	fimH	99.8	489 / 489	NODE_1_length_395541_cov_12.773761	335083..335571	   Type 1 fimbriae	NA
+virulence_ecoli	iutA	99.27	2190 / 2190	NODE_21_length_90000_cov_12.480600	85417..87606	  Ferric aerobactin receptor	FLXF01000001
+virulence_ecoli	mrkA	95.93	615 / 597	NODE_1_length_395541_cov_12.773761	321913..322527	 type 3 fimbrial major subunit	ABW83989
+virulence_ecoli	nlpI	90.18	886 / 885	NODE_8_length_217241_cov_13.467874	97891..98775	  lipoprotein NlpI precursor	CP000243

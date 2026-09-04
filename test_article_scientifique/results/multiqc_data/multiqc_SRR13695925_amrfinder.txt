@@ -1,0 +1,9 @@
+Sample	Element name		Class	Subclass	Target length	Reference sequence length	% Coverage of reference
+aph(3'')-Ib	aminoglycoside O-phosphotransferase APH(3'')-Ib		AMINOGLYCOSIDE	STREPTOMYCIN	267	267	100.0
+aph(3')-VIa	aminoglycoside O-phosphotransferase APH(3')-VIa		AMINOGLYCOSIDE	AMIKACIN/KANAMYCIN	259	259	100.0
+aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id		AMINOGLYCOSIDE	STREPTOMYCIN	278	278	100.0
+blaSHV-1	broad-spectrum class A beta-lactamase SHV-1		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+catA3	type A-3 chloramphenicol O-acetyltransferase CatIII		PHENICOL	CHLORAMPHENICOL	213	213	100.0
+fosA	FosA5 family fosfomycin resistance glutathione transferase		FOSFOMYCIN	FOSFOMYCIN	138	139	99.28
+oqxA	multidrug efflux RND transporter periplasmic adaptor subunit OqxA		NITROFURAN/PHENICOL/QUINOLONE/TETRACYCLINE	NITROFURANTOIN/PHENICOL/QUINOLONE/TIGECYCLINE	391	391	100.0
+oqxB25	multidrug efflux RND transporter permease subunit OqxB25		PHENICOL/QUINOLONE	PHENICOL/QUINOLONE	1050	1050	100.0
