@@ -1,0 +1,35 @@
+100.00	182794	0	R	1	root
+100.00	182794	0	R1	131567	  cellular organisms
+100.00	182794	0	R2	2	    Bacteria
+100.00	182794	0	K	3379134	      Pseudomonadati
+100.00	182794	0	P	1224	        Pseudomonadota
+100.00	182794	0	C	1236	          Gammaproteobacteria
+99.97	182735	0	O	91347	            Enterobacterales
+99.94	182690	0	F	543	              Enterobacteriaceae
+99.20	181336	0	F1	2890311	                Klebsiella/Raoultella group
+99.20	181336	0	G	570	                  Klebsiella
+99.01	180979	0	G1	3390273	                    Klebsiella pneumoniae complex
+96.85	177044	177044	S	573	                      Klebsiella pneumoniae
+0.97	1775	1775	S	1463165	                      Klebsiella quasipneumoniae
+1.15	2094	2094	S	244366	                      Klebsiella variicola
+0.04	65	65	S	2026240	                      Klebsiella quasivariicola
+0.07	133	133	S	2489010	                    Klebsiella africana
+0.05	93	93	S	548	                    Klebsiella aerogenes
+0.03	63	63	S	1134687	                    Klebsiella michiganensis
+0.02	29	29	S	571	                    Klebsiella oxytoca
+0.01	24	0	G1	2608929	                    unclassified Klebsiella
+0.01	24	24	S	3161071	                      Klebsiella sp. WOUb02
+0.01	12	12	S	1259973	                    Klebsiella electrica
+0.54	989	0	G	561	                Escherichia
+0.54	989	989	S	562	                  Escherichia coli
+0.20	363	0	G	590	                Salmonella
+0.20	363	363	S	28901	                  Salmonella enterica
+0.02	45	0	F	1903411	              Yersiniaceae
+0.02	45	0	G	629	                Yersinia
+0.02	45	0	G1	1649845	                  Yersinia pseudotuberculosis complex
+0.02	45	45	S	633	                    Yersinia pseudotuberculosis
+0.03	58	0	O	72274	            Pseudomonadales
+0.03	58	0	F	135621	              Pseudomonadaceae
+0.03	58	0	G	286	                Pseudomonas
+0.03	58	0	G1	136841	                  Pseudomonas aeruginosa group
+0.03	58	58	S	287	                    Pseudomonas aeruginosa

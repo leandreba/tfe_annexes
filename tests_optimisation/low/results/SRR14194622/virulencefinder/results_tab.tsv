@@ -1,0 +1,12 @@
+Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+virulence_ecoli	ccI	99.94	1686 / 1686	NODE_64_length_5443_cov_194.054176	1621..3306	  Cloacin	DQ298019
+virulence_ecoli	fimH	99.8	489 / 489	NODE_1_length_421612_cov_17.431652	361241..361729	   Type 1 fimbriae	NA
+virulence_ecoli	fyuA	99.95	2022 / 2022	NODE_15_length_122551_cov_15.543055	93336..95357	  Siderophore receptor	CU928163
+virulence_ecoli	irp2	99.95	6108 / 6108	NODE_15_length_122551_cov_15.543055	108545..114652	  High molecular weight protein 2 non-ribosomal peptide synthetase	NZ_UEMD01000021
+virulence_ecoli	iucC	90.59	1743 / 1743	NODE_20_length_101176_cov_20.378133	90968..92708	  Aerobactin synthetase	CYAZ01000069
+virulence_ecoli	iutA	100.0	2190 / 2190	NODE_10_length_155879_cov_16.561193	20470..22659	  Ferric aerobactin receptor	FLXF01000001
+virulence_ecoli	iutA	99.65	1722 / 1722	NODE_20_length_101176_cov_20.378133	87411..89132	  Ferric aerobactin receptor	UDFN01000030
+virulence_ecoli	mrkA	96.26	615 / 597	NODE_1_length_421612_cov_17.431652	348070..348684	 type 3 fimbrial major subunit	ABW83989
+virulence_ecoli	nlpI	90.07	886 / 885	NODE_7_length_200910_cov_17.804461	102129..103013	  lipoprotein NlpI precursor	CP000243
+virulence_ecoli	terC	99.42	1041 / 1041	NODE_20_length_101176_cov_20.378133	57072..58112	  Tellurium ion resistance protein	UDGH01000006
+virulence_ecoli	traT	100.0	732 / 732	NODE_34_length_56445_cov_23.951170	40453..41184	  Outer membrane protein complement resistance	NZ_KZ984345

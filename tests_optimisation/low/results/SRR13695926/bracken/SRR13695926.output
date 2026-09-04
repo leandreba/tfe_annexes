@@ -1,0 +1,30 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Klebsiella pneumoniae	573	S	34283	369696	403979	0.95180
+Klebsiella quasipneumoniae	1463165	S	1332	4127	5459	0.01286
+Klebsiella variicola	244366	S	938	6506	7444	0.01754
+Klebsiella quasivariicola	2026240	S	209	118	327	0.00077
+Klebsiella africana	2489010	S	260	112	372	0.00088
+Klebsiella aerogenes	548	S	210	45	255	0.00060
+Klebsiella sp. I138	2755385	S	34	36	70	0.00016
+Klebsiella sp. WOUb02	3161071	S	28	16	44	0.00010
+Klebsiella michiganensis	1134687	S	106	173	279	0.00066
+Klebsiella oxytoca	571	S	93	16	109	0.00026
+Klebsiella grimontii	2058152	S	35	166	201	0.00047
+Klebsiella huaxiensis	2153354	S	19	7	26	0.00006
+Klebsiella electrica	1259973	S	18	2	20	0.00005
+Enterobacter hormaechei	158836	S	47	888	935	0.00220
+Enterobacter asburiae	61645	S	17	124	141	0.00033
+Enterobacter ludwigii	299767	S	17	106	123	0.00029
+Enterobacter cloacae	550	S	12	61	73	0.00017
+Enterobacter roggenkampii	1812935	S	11	29	40	0.00009
+Escherichia coli	562	S	410	1672	2082	0.00491
+Salmonella enterica	28901	S	92	1893	1985	0.00468
+Citrobacter freundii	546	S	22	26	48	0.00011
+Citrobacter sp. RHBSTW-00986	2742675	S	19	32	51	0.00012
+Kosakonia radicincitans	283686	S	18	5	23	0.00005
+Yersinia enterocolitica	630	S	23	4	27	0.00006
+Morganella morganii	582	S	19	1	20	0.00005
+Xenorhabdus budapestensis	290110	S	10	1	11	0.00003
+Proteus mirabilis	584	S	11	2	13	0.00003
+Pseudomonas aeruginosa	287	S	49	208	257	0.00061
+Homo sapiens	9606	S	10	0	10	0.00002

@@ -1,0 +1,7 @@
+Sample	Identity	Query / Template length	Protein function	Accession number
+fimH	99.8	489 / 489	Type 1 fimbriae	NA
+fyuA	100.0	2022 / 2022	Siderophore receptor	CAY233333
+irp2	100.0	6108 / 6108	High molecular weight protein 2 non-ribosomal peptide synthetase	NZ_UEMT01000018
+iutA	99.32	2190 / 2190	Ferric aerobactin receptor	FLXF01000001
+mrkA	96.26	615 / 597	type 3 fimbrial major subunit	ABW83989
+nlpI	90.07	886 / 885	lipoprotein NlpI precursor	CP000243

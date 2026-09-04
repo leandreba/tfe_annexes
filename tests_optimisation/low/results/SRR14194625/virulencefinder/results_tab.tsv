@@ -1,0 +1,10 @@
+Database	Virulence factor	Identity	Query / Template length	Contig	Position in contig	Protein function	Accession number
+virulence_ecoli	fimH	99.18	489 / 489	NODE_121_length_11675_cov_4.285158	5200..5688	   Type 1 fimbriae	NA
+virulence_ecoli	fyuA	99.85	2022 / 2022	NODE_596_length_2551_cov_3.428218	169..2190	  Siderophore receptor	CAY233333
+virulence_ecoli	iroN	99.95	2175 / 2175	NODE_44_length_17778_cov_4.657980	175..2349	  Enterobactin siderophore receptor protein	AP006726
+virulence_ecoli	irp2	99.32	5579 / 5580	NODE_102_length_12859_cov_3.561263	428..6006	  High molecular weight protein 2 non-ribosomal peptide synthetase	NZ_NMIF01000048
+virulence_ecoli	iucC	90.59	1743 / 1743	NODE_107_length_12500_cov_4.426736	8017..9757	  Aerobactin synthetase	CYAZ01000069
+virulence_ecoli	iutA	99.41	2190 / 2190	NODE_528_length_3269_cov_3.842139	946..3135	  Ferric aerobactin receptor	FLWH01000001
+virulence_ecoli	iutA	99.65	1722 / 1722	NODE_107_length_12500_cov_4.426736	4460..6181	  Ferric aerobactin receptor	UDFN01000030
+virulence_ecoli	mrkA	95.93	615 / 597	NODE_232_length_8132_cov_3.368520	6396..7010	 type 3 fimbrial major subunit	ABW83989
+virulence_ecoli	terC	99.42	1041 / 1041	NODE_20_length_22942_cov_4.502082	2505..3545	  Tellurium ion resistance protein	UDGH01000006

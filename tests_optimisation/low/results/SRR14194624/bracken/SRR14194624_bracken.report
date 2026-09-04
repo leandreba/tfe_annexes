@@ -1,0 +1,89 @@
+100.00	425379	0	R	1	root
+100.00	425379	0	R1	131567	  cellular organisms
+99.98	425308	0	R2	2	    Bacteria
+99.98	425308	0	K	3379134	      Pseudomonadati
+99.98	425308	0	P	1224	        Pseudomonadota
+99.98	425308	0	C	1236	          Gammaproteobacteria
+99.94	425116	0	O	91347	            Enterobacterales
+99.94	425103	0	F	543	              Enterobacteriaceae
+99.28	422323	0	F1	2890311	                Klebsiella/Raoultella group
+99.27	422288	0	G	570	                  Klebsiella
+99.00	421109	0	G1	3390273	                    Klebsiella pneumoniae complex
+96.57	410803	410803	S	573	                      Klebsiella pneumoniae
+1.08	4590	4590	S	1463165	                      Klebsiella quasipneumoniae
+1.28	5458	5458	S	244366	                      Klebsiella variicola
+0.06	257	257	S	2026240	                      Klebsiella quasivariicola
+0.08	350	350	S	2489010	                    Klebsiella africana
+0.06	269	269	S	548	                    Klebsiella aerogenes
+0.02	104	104	S	571	                    Klebsiella oxytoca
+0.04	171	171	S	1134687	                    Klebsiella michiganensis
+0.02	77	0	G1	2608929	                    unclassified Klebsiella
+0.01	47	47	S	2755385	                      Klebsiella sp. I138
+0.01	30	30	S	3161071	                      Klebsiella sp. WOUb02
+0.04	150	150	S	2058152	                    Klebsiella grimontii
+0.01	30	30	S	1259973	                    Klebsiella electrica
+0.01	23	23	S	2153354	                    Klebsiella huaxiensis
+0.01	35	0	G	160674	                  Raoultella
+0.01	35	35	S	54291	                    Raoultella ornithinolytica
+0.37	1580	0	G	561	                Escherichia
+0.37	1580	1580	S	562	                  Escherichia coli
+0.23	958	0	G	590	                Salmonella
+0.23	958	958	S	28901	                  Salmonella enterica
+0.04	160	0	G	547	                Enterobacter
+0.04	160	0	G1	354276	                  Enterobacter cloacae complex
+0.02	65	65	S	158836	                    Enterobacter hormaechei
+0.01	23	23	S	1812935	                    Enterobacter roggenkampii
+0.01	52	52	S	550	                    Enterobacter cloacae
+0.00	18	18	S	299767	                    Enterobacter ludwigii
+0.01	61	0	G	544	                Citrobacter
+0.01	46	0	G1	1344959	                  Citrobacter freundii complex
+0.01	46	46	S	546	                    Citrobacter freundii
+0.00	15	15	S	545	                  Citrobacter koseri
+0.00	19	0	G	83654	                Leclercia
+0.00	19	19	S	83655	                  Leclercia adecarboxylata
+0.00	13	0	F	1903412	              Hafniaceae
+0.00	13	0	G	635	                Edwardsiella
+0.00	13	13	S	636	                  Edwardsiella tarda
+0.03	143	0	O	135623	            Vibrionales
+0.03	143	0	F	641	              Vibrionaceae
+0.03	143	0	G	662	                Vibrio
+0.03	143	143	S	666	                  Vibrio cholerae
+0.01	35	0	O	2887326	            Moraxellales
+0.01	35	0	F	468	              Moraxellaceae
+0.01	35	0	G	469	                Acinetobacter
+0.01	35	0	G1	909768	                  Acinetobacter calcoaceticus/baumannii complex
+0.01	35	35	S	470	                    Acinetobacter baumannii
+0.00	13	0	O	135618	            Methylococcales
+0.00	13	0	F	403	              Methylococcaceae
+0.00	13	0	G	413	                Methylococcus
+0.00	13	13	S	414	                  Methylococcus capsulatus
+0.02	70	0	R2	2759	    Eukaryota
+0.02	70	0	R3	33154	      Opisthokonta
+0.02	70	0	K	33208	        Metazoa
+0.02	70	0	K1	6072	          Eumetazoa
+0.02	70	0	K2	33213	            Bilateria
+0.02	70	0	K3	33511	              Deuterostomia
+0.02	70	0	P	7711	                Chordata
+0.02	70	0	P1	89593	                  Craniata
+0.02	70	0	P2	7742	                    Vertebrata
+0.02	70	0	P3	7776	                      Gnathostomata
+0.02	70	0	P4	117570	                        Teleostomi
+0.02	70	0	P5	117571	                          Euteleostomi
+0.02	70	0	P6	8287	                            Sarcopterygii
+0.02	70	0	P7	1338369	                              Dipnotetrapodomorpha
+0.02	70	0	P8	32523	                                Tetrapoda
+0.02	70	0	P9	32524	                                  Amniota
+0.02	70	0	C	40674	                                    Mammalia
+0.02	70	0	C1	32525	                                      Theria
+0.02	70	0	C2	9347	                                        Eutheria
+0.02	70	0	C3	1437010	                                          Boreoeutheria
+0.02	70	0	C4	314146	                                            Euarchontoglires
+0.02	70	0	O	9443	                                              Primates
+0.02	70	0	O1	376913	                                                Haplorrhini
+0.02	70	0	O2	314293	                                                  Simiiformes
+0.02	70	0	O3	9526	                                                    Catarrhini
+0.02	70	0	O4	314295	                                                      Hominoidea
+0.02	70	0	F	9604	                                                        Hominidae
+0.02	70	0	F1	207598	                                                          Homininae
+0.02	70	0	G	9605	                                                            Homo
+0.02	70	70	S	9606	                                                              Homo sapiens

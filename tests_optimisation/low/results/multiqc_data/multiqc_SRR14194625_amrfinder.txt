@@ -1,0 +1,5 @@
+Sample	Element name		Class	Subclass	Target length	Reference sequence length	% Coverage of reference
+blaSHV-1	broad-spectrum class A beta-lactamase SHV-1		BETA-LACTAM	BETA-LACTAM	286	286	100.0
+fosA	FosA5 family fosfomycin resistance glutathione transferase		FOSFOMYCIN	FOSFOMYCIN	103	139	74.1
+oqxA11	multidrug efflux RND transporter periplasmic adaptor subunit OqxA11		PHENICOL/QUINOLONE	PHENICOL/QUINOLONE	391	391	100.0
+oqxB19	multidrug efflux RND transporter permease subunit OqxB19		PHENICOL/QUINOLONE	PHENICOL/QUINOLONE	1050	1050	100.0

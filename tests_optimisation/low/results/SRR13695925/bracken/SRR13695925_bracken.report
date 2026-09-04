@@ -1,0 +1,107 @@
+100.00	414165	0	R	1	root
+100.00	414165	0	R1	131567	  cellular organisms
+99.98	414099	0	R2	2	    Bacteria
+99.98	414066	0	K	3379134	      Pseudomonadati
+99.98	414066	0	P	1224	        Pseudomonadota
+99.86	413566	0	C	1236	          Gammaproteobacteria
+99.84	413493	0	O	91347	            Enterobacterales
+99.70	412941	0	F	543	              Enterobacteriaceae
+98.67	408667	0	F1	2890311	                Klebsiella/Raoultella group
+98.67	408641	0	G	570	                  Klebsiella
+98.37	407427	0	G1	3390273	                    Klebsiella pneumoniae complex
+95.28	394636	394636	S	573	                      Klebsiella pneumoniae
+1.85	7657	7657	S	1463165	                      Klebsiella quasipneumoniae
+1.17	4855	4855	S	244366	                      Klebsiella variicola
+0.07	277	277	S	2026240	                      Klebsiella quasivariicola
+0.09	366	366	S	2489010	                    Klebsiella africana
+0.06	236	236	S	548	                    Klebsiella aerogenes
+0.03	121	0	G1	2608929	                    unclassified Klebsiella
+0.01	33	33	S	2755385	                      Klebsiella sp. I138
+0.01	25	25	S	3161071	                      Klebsiella sp. WOUb02
+0.02	63	63	S	2755398	                      Klebsiella sp. B345
+0.05	219	219	S	1134687	                    Klebsiella michiganensis
+0.03	121	121	S	571	                    Klebsiella oxytoca
+0.02	97	97	S	2058152	                    Klebsiella grimontii
+0.01	25	25	S	1259973	                    Klebsiella electrica
+0.01	24	24	S	2153354	                    Klebsiella huaxiensis
+0.01	26	0	G	160674	                  Raoultella
+0.01	26	26	S	54291	                    Raoultella ornithinolytica
+0.50	2062	0	G	561	                Escherichia
+0.50	2062	2062	S	562	                  Escherichia coli
+0.37	1532	0	G	590	                Salmonella
+0.37	1532	1532	S	28901	                  Salmonella enterica
+0.09	352	0	G	620	                Shigella
+0.09	352	352	S	623	                  Shigella flexneri
+0.05	213	0	G	547	                Enterobacter
+0.05	213	0	G1	354276	                  Enterobacter cloacae complex
+0.04	167	167	S	158836	                    Enterobacter hormaechei
+0.00	18	18	S	299767	                    Enterobacter ludwigii
+0.00	15	15	S	61645	                    Enterobacter asburiae
+0.00	11	11	S	1812935	                    Enterobacter roggenkampii
+0.02	98	0	G	544	                Citrobacter
+0.02	98	0	G1	1344959	                  Citrobacter freundii complex
+0.02	62	62	S	57706	                    Citrobacter braakii
+0.01	35	35	S	546	                    Citrobacter freundii
+0.00	16	0	G	1330547	                Kosakonia
+0.00	16	16	S	283686	                  Kosakonia radicincitans
+0.13	527	0	F	1903414	              Morganellaceae
+0.10	430	0	G	583	                Proteus
+0.10	430	430	S	584	                  Proteus mirabilis
+0.02	96	0	G	586	                Providencia
+0.02	96	96	S	588	                  Providencia stuartii
+0.01	24	0	F	1903411	              Yersiniaceae
+0.01	24	0	G	629	                Yersinia
+0.01	24	24	S	630	                  Yersinia enterocolitica
+0.02	72	0	O	72274	            Pseudomonadales
+0.02	72	0	F	135621	              Pseudomonadaceae
+0.02	72	0	G	286	                Pseudomonas
+0.02	72	0	G1	136841	                  Pseudomonas aeruginosa group
+0.02	72	72	S	287	                    Pseudomonas aeruginosa
+0.12	500	0	C	28216	          Betaproteobacteria
+0.12	500	0	O	80840	            Burkholderiales
+0.12	500	0	F	506	              Alcaligenaceae
+0.12	500	0	G	507	                Alcaligenes
+0.12	500	500	S	511	                  Alcaligenes faecalis
+0.01	33	0	K	1783272	      Bacillati
+0.00	17	0	P	1239	        Bacillota
+0.00	17	0	C	91061	          Bacilli
+0.00	17	0	O	1385	            Bacillales
+0.00	17	0	F	90964	              Staphylococcaceae
+0.00	17	0	G	1279	                Staphylococcus
+0.00	17	17	S	1290	                  Staphylococcus hominis
+0.00	15	0	P	201174	        Actinomycetota
+0.00	15	0	C	1760	          Actinomycetes
+0.00	15	0	O	85009	            Propionibacteriales
+0.00	15	0	F	31957	              Propionibacteriaceae
+0.00	15	0	G	1912216	                Cutibacterium
+0.00	15	15	S	1747	                  Cutibacterium acnes
+0.02	65	0	R2	2759	    Eukaryota
+0.02	65	0	R3	33154	      Opisthokonta
+0.02	65	0	K	33208	        Metazoa
+0.02	65	0	K1	6072	          Eumetazoa
+0.02	65	0	K2	33213	            Bilateria
+0.02	65	0	K3	33511	              Deuterostomia
+0.02	65	0	P	7711	                Chordata
+0.02	65	0	P1	89593	                  Craniata
+0.02	65	0	P2	7742	                    Vertebrata
+0.02	65	0	P3	7776	                      Gnathostomata
+0.02	65	0	P4	117570	                        Teleostomi
+0.02	65	0	P5	117571	                          Euteleostomi
+0.02	65	0	P6	8287	                            Sarcopterygii
+0.02	65	0	P7	1338369	                              Dipnotetrapodomorpha
+0.02	65	0	P8	32523	                                Tetrapoda
+0.02	65	0	P9	32524	                                  Amniota
+0.02	65	0	C	40674	                                    Mammalia
+0.02	65	0	C1	32525	                                      Theria
+0.02	65	0	C2	9347	                                        Eutheria
+0.02	65	0	C3	1437010	                                          Boreoeutheria
+0.02	65	0	C4	314146	                                            Euarchontoglires
+0.02	65	0	O	9443	                                              Primates
+0.02	65	0	O1	376913	                                                Haplorrhini
+0.02	65	0	O2	314293	                                                  Simiiformes
+0.02	65	0	O3	9526	                                                    Catarrhini
+0.02	65	0	O4	314295	                                                      Hominoidea
+0.02	65	0	F	9604	                                                        Hominidae
+0.02	65	0	F1	207598	                                                          Homininae
+0.02	65	0	G	9605	                                                            Homo
+0.02	65	65	S	9606	                                                              Homo sapiens
